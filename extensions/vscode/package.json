@@ -1,0 +1,10 @@
+{
+  "name": "ai-focus-tracker",
+  "displayName": "AI Focus Tracker",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "activationEvents": ["*"],
+  "main": "extension.js"
+}
